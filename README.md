@@ -8,7 +8,6 @@
 
 - 🧑‍💻 Building responsive, user-friendly React interfaces
 - 📚 Currently learning: TypeScript, advanced React (hooks, context), SASS
-- 🎬 Running [reelestate.pl](https://reelestate.pl): video & web for real estate
 - 📈 Side project: real-time crypto market data pipelines in Python
 - 🤝 Open to collaboration and freelance projects
 - 🌍 Polish (native) · English (fluent) · German (basic)
@@ -21,9 +20,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maciej-waszynski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[TWÓJ_EMAIL]"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://reelestate.pl"><img src="https://img.shields.io/badge/Website-3DDC84?style=flat&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.instagram.com/reelestate.pl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:m.waszynski2005@wp.pl"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
